@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package switchcase;
+package score;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author 91909
  */
-public class Switchcase {
+public class Score {
 
     /**
      * @param args the command line arguments
